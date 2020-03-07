@@ -34,6 +34,7 @@ Simply copy all the files in the folder "Extensions" of Inkscape
 - Step 4) Play!
 
 # Remark
-You have to set the propery Homing! If it is not set it might cause an error/freeze of inkscape.
+You have to set the propery Homing! If it is not set it might cause an error/freeze of inkscape.https://github.com/MakerSpaceLeiden/raster2gcode/blob/master/error.png
 
-![alt text] (https://github.com/MakerSpaceLeiden/raster2gcode/blob/master/error.png)
+<img src="https://github.com/MakerSpaceLeiden/raster2gcode/blob/master/error.png" alt="drawing" width="350"/>
+
